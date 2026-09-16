@@ -1,0 +1,167 @@
+第二个单元，我们先对整门课做一个总体介绍。我特别希望大家能从这门课里真正有所收获：具体来说，我希望你们把在法学中学到的东西，和在这门课里将要学到的东西结合起来，去尝试探索。这就是接下来这门课的大致轮廓——我们大体上会覆盖三块内容。如果有听不清楚的地方，后面我们再补。
+
+先讲一下这门课的日常要求。参与（participation）、讨论（discussion）、出勤（attendance）、作业（homework），这些都会计入考核。
+
+作业的形式是一次 presentation：你需要选一篇文章，发到我们的群里。
+
+然后向大家展示你选的这篇文章的主要内容，说说你的反思——你学到了什么。既然选这篇文章的人是你，那你肯定有你的理由，有什么想告诉大家的，就把它讲清楚。
+
+另外，大家要考专八，所以在语言层面也要守住底线。讲到你选的文章时，我希望你分享一两个语言点，两三个也可以，但不必做太多单词总结。目的是让班上其他同学也能从你的分享里获得一些语言知识点，以及相关的思辨内容——你的反思，你对这篇文章的个人理解，它反映了社会哪一个层面的问题。
+
+话题的选择要有一定的自觉：可以是最近发生的时事，也可以是比较受关注、比较新的题材，但不要拿自己五年前的旧文章来应付。
+
+我们班有二十七个人，其中有同学没有选上这门课。正常选课的同学要注意考勤打卡，不要让自己进黑名单；没选上的同学，之后再去修这门考试就可以。
+
+好，我们进入正题。我们要读的是《那些离开奥梅拉斯的人》（The Ones Who Walk Away from Omelas），奥梅拉斯是一座乌托邦式的城市。
+
+开始之前，先想一个问题——大家可能已经听过，这就是“电车难题”（trolley problem）。
+
+设想这样的情境：一辆电车正在轨道上行驶，前方轨道上有五个人。你的手边有一个扳道岔的拉杆，只要扳动它，电车就会转向另一条轨道，而那条轨道上有一个人。
+
+也就是说，扳动拉杆，你会杀死一个人；不扳，会死五个人。这是一个很难做的决定，它本身也是一种所谓的思想实验（thought experiment）。
+
+这也是接下来要讲的伦理理念、道德境界的问题。我们来做一个调查：选择改变方向、也就是扳动拉杆的同学，请举手。
+
+好，大多数同学都选择了扳动拉杆。也就是说，为了避免五个人死亡，你选择让一个人死去——五个人得救，一个人牺牲。为什么这样选？因为你在比较两种结果，你认为哪一种结果更好。
+
+我们再想一个故事：有几个人在海上遇险，船还在下沉，情急之下，他们可不可以用“合理的武力”（reasonable force）来保全自己的性命？这样的行为在法律上应当如何评价？有同学认为，这几个人应当被判刑；也有同学觉得，他们情有可原。
+
+你看，不同的选择背后，是不同的判断标准。这些选择其实都在回答同一个问题：我们凭什么判断一个行为是不是道德的（whether it is moral）？我们依据什么做判断，又依据什么去行动？
+
+大家在讨论的是，这些选择到底合不合理。
+
+那么，判断的标准是什么？这把尺子（axis），就在引导我们的行动。
+
+如果你持有的是后果论（consequentialism），你看重的就是后果：哪种选择能让结果最大化，我们就选它，追求最大多数人的最大幸福。
+
+可是也有同学面对类似的情境选择不去干涉。举个例子：如果说一个谎能让结果变得更好，你会不会说？有人会说，说谎是错的，所以我拒绝说谎——他坚持的是某种绝对的、抽象的原则。
+
+这种原则凌驾于社会经验之上，是一套不变的法则或原理，他不去考虑后果。因为我从小被教育，说谎就是不对的，所以不管后果如何，我都不会去做。这就是另外一条路径：坚持一定的道理，不变。
+
+好，现在我们把目光转向文本。奥梅拉斯（Omelas），一座充满幸福的城市。
+
+这是一篇很有名的科幻小说（science fiction）。它的写作手法，比如说，就是民族志（ethnography）——也叫人种志——的创作。民族志并不是只记录一个民族，它可以记录方方面面。
+
+民族志常用的一种方法是参与式观察：研究者参与到研究对象的真实生活当中去，去真实地感受它。比如我刚刚提到过的对农民工的研究。当然，现在你可能都不太愿意去工地了；有的研究对象更多是活动在网络上的，这也可以参考着去做。
+
+我还想提一部作品，大家感兴趣的话可以去看，就是勒古恩（Ursula K. Le Guin）的《地海传奇》（Earthsea）。她曾经说过，自己学过化学、生物、物理这些硬科学，而如今她的感受力（sensation）更多偏向社会科学。
+
+也就是说，科幻小说不一定只写外太空、物理学，它也可以写别的东西，比如社会。这就是所谓的：科幻可以构建城市，构建社会结构、社会态度与习俗。
+
+在虚构的意义上，在审美的想象中，它为我们提供了一个思考的平台（a platform to think），让我们得以重新审视（re-examine）自己。本文就是一个典型的例子，也正是我们要学的例子。
+
+正因为它是虚构的，我们不必被现实中的细节所困，才有了一个可以去思考这些事情的空间——因为在真实生活中，并不存在这样一座城市。她就是用科幻小说去探索当代的问题（contemporary issues）。
+
+写作上，她其实是在让你穿上别人的皮（into the skin of other beings），站在别人的位置去看待人与人之间的事情——把自己从现实里脱身出来，换一个视角。
+
+接下来介绍一个人物，他是一位先驱。
+
+1861 年，他进入哈佛学习化学；在此期间，他又接触到进化论的思想，后来转向生物科学，之后又学医，还做过实地考察和自然观察。再后来，他去了德国，跟随当时的三位学术巨擘学习，其中就包括建立了第一个正式心理学实验室的冯特（Wilhelm Wundt）。他分别学习过医学、生理学和心理学。
+
+取得学位之后，他到哈佛大学任教，讲的是解剖学和生理学。很有意思的是，他研究的是神经生理以及和心理学有关的生理学问题，后来才转向心理学。
+
+这一段里第一个非常具有吸引力的是……大家可以想一想。
+
+他为什么会转向心理学？因为有些问题他解决不了，内心的困惑无法排解，所以后来他转向了心理，甚至转向了别的问题。
+
+他当时的思想资源里有哲学上的先驱，这些先驱影响了众多科学家，比如杜威。
+
+约翰·杜威是教育学家。这里也引出一个问题：什么是“好”？我们不能那样看问题——要把事物放到真实生活里面来看，不要看抽象的起点，要看它具体的终点。
+
+这就是一种解决方案。我们上次学过 pragmatic；语用学（pragmatics）就是从这儿来的，它脱身于实用主义（pragmatism）——在真实生活中考察语言。
+
+考察一个句子，要在它的真实生活里考察。A language in context，语言要在语境中考察——这其实就是实用主义。
+
+他的《心理学原理》（The Principles of Psychology）在某个时期产生过很大的影响；它很优秀，但在很短的时间内也遭遇了失败。而两年之后，这本书……心理分析（psychoanalysis）又从美国传了进来。
+
+再来看他这个人本身：他是怎么被改变的？
+
+后来他成了家，这件事对他的影响非常大，可以说把他带了回来。
+
+他有一句著名的话：Be not afraid of life——不要害怕生活。
+
+从那句话里也能看出来：一个人改变了自己的心态（the attitude of their minds），就能改变自己生活的外在面貌（the outward aspect of their lives）。
+
+所以他非常重视人的内心世界。
+
+抑郁有时很难发现，你甚至难以意识到它曾经来过。
+
+所谓 in the attitude of your mind，并不是解剖学、医学或生理学意义上的特征，而是一个概念——这是他非常重要的一个观念。
+
+好，现在我们接着看课文，先看注释部分。
+
+这里有一个关于同质性（homogeneity）的想法：没有痛苦，就等于和平（peace）——他强调的正是平等主义（egalitarianism）。
+
+这篇小说的副标题是 Variations on a Theme by William James，也就是说，William James 曾经提到过类似的话题。
+
+那该怎么形容呢？他这里用到的一个词是 bargain，也就是“交易”——这是一场什么样的交易？这场交易又意味着什么？
+
+这场交易基于一个简单的条件：数百万人的幸福，建立在某一个（或某些）人的痛苦之上——那个孩子被独自留下，在角落里受尽折磨。
+
+好，我们来看。这里我又给大家找了三个例子，是法国哲学家、思想家的构想，也就是空想社会主义。
+
+那些是梦想，但终究只是空想，因为它不现实。
+
+那么对应着来看，这又是不是发生在第三世界？有些利益的获取，正是建立在那些基础性的东西之上。
+
+作为英语专业的学生，我们还要进入文化元素（culture elements）里去看。
+
+而故事的另一面是：有些人拒绝以他人的代价（at the expense of someone else）来换取自己的幸福——这就是 those who walk away。这是一个很有意思的概念。
+
+这是先从两个层面对主题所做的分析。
+
+有一个说法：幸福不是免费的（happiness is not free）。有幸福，就必然有代价紧随其后（followed by costs）。那么，代价是什么？
+
+先来看文章的结构，它非常清楚，分为三部分。第一部分从第一段到第六段，描写的是奥梅拉斯的幸福。
+
+一个简单的“快乐”，作者用了六段来写它。而第二部分，从第七段到第十二段，揭示的是：这份幸福完全建立在孩子的痛苦之上。大家预习过课文吗？如果你预习过，也许会注意到一个触目惊心的发现——child suffering，孩子的痛苦，而所有人都接受了这个可怕的现实。这就是第二部分。
+
+第三部分是最后两段：有些人选择了离开（some people walk away）。
+
+我们再回到开头。第一句是：With a clamor of bells that set the swallows soaring, the Festival of Summer came to the city Omelas, bright-towered by the sea. 伴随着使燕子高飞的钟声，夏日节来到了海边的奥梅拉斯城。这里的 bright-towered 是一个复合形容词，作后置定语修饰 Omelas，就是“海边的、明亮塔楼的”那座城；swallows soaring 也是同样的道理——燕子高飞。
+
+第二句是：The rigging of the boats in harbor sparkled with flags. 港口里船只的帆索上，旗帜闪耀。sparkled 是个动词，就是“闪耀”。
+
+第三句写的是街道：In the streets between houses with red roofs and painted walls, between old moss-grown gardens and under avenues of trees, past great parks and public buildings, processions moved. 街道上，是红色屋顶、彩绘墙壁的房屋，是青苔斑驳的古老花园，是林荫道，经过大公园和公共建筑，游行队伍在行进。
+
+这些其实都是空间、方位的描写，重点在这段的前面。
+
+这让我想起另一部名著的开头。《傲慢与偏见》的第一句是：It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. 一个拥有丰厚财产的单身汉，总归是需要一位妻子的。
+
+接着往下看：Some were decorous. 有些队伍是端庄得体的——old people in long stiff robes of mauve and grey，穿着淡紫色、灰色挺括长袍的老人；grave master workmen，神情严肃的工匠师傅；还有 quiet, merry women carrying their babies and chatting as they walked，安静而快活的妇女，抱着孩子，边走边聊。
+
+decorous 就是端庄的、得体的；mauve 是淡紫色，grey 是灰色。
+
+再看另外一些街道：In other streets the music beat faster, a shimmering of gong and tambourine, and the people went dancing, the procession was a dance. 音乐节奏更快了，锣声与铃鼓声闪烁不定，人们在跳舞，游行本身就是一场舞蹈。
+
+Children dodged in and out, their high calls rising like the swallows' crossing flights, over the music and the singing. 孩子们在人群里穿梭，他们尖亮的叫声像燕子交错飞过一般，越过音乐与歌声。
+
+然后，All the processions wound towards the north side of the city——所有的游行队伍，都朝着城市的北部蜿蜒前行。
+
+它们最后来到 the great water-meadow called the Green Fields，那一片叫做“绿野”的临水大草地：boys and girls, naked in the bright air, with mud-stained feet and ankles and long, lithe arms, exercised their restive horses before the race. 男孩女孩们在明亮的天光下赤裸着身体，双脚和脚踝沾满泥浆，手臂又长又柔软灵活，在赛马之前驯服他们焦躁不安的马。
+
+mud-stained 也是一个复合形容词，沾满泥的；lithe 是柔软而灵活的。
+
+这里也让我想起《圣经》里亚当和夏娃的故事：他们吃了禁果、有了羞耻心之后，才发现自己是赤裸的，于是有了衣服。所以在某种意义上，赤裸的身体意味着没有羞耻、超出世俗的含义。我们常说，穿上衣服是文明的象征；而在这个乌托邦里，人们就是这样赤裸着，却不会产生任何不纯洁的想法，因为他们已经超出了世俗意义。
+
+接下来看马。文中说 the horses wore no gear at all but a halter without bit——这些马完全没有佩带任何马具，只戴着一个没有马嚼子的笼头。
+
+大家知道什么是马嚼子（bit）吗？就是放在马嘴里的那个东西：勒着它，就能控制马的头部，甚至从鼻孔穿过去——只有这样才能更好地控制一匹马。马具意味着束缚，意味着奴役，是一种禁锢，没有人愿意被这样牵着。
+
+而在这里，没有这些设备，只有一根缰绳，而且这根缰绳还有一个细节：它没有安装马嚼子。
+
+还有一处细节：There was just enough wind to make the banners that marked the racecourse snap and flutter now and then. 风刚好够大，让标记赛道的旗帜不时噼啪作响，飘动起来。
+
+再看声音：In the silence of the broad green meadows one could hear the music winding through the city streets, farther and nearer and ever approaching, a cheerful faint sweetness of the air that from time to time trembled and gathered together and broke out into the great joyous clanging of the bells. 在开阔绿野的一片寂静里，你能听见音乐蜿蜒穿过城市街道，时远时近，不断靠近；那是空气里一缕欢快而淡淡的甜意，不时地颤动、聚拢，最后爆发成钟声那巨大的、欢快的轰鸣。
+
+声音本来是用来听的，这里却仿佛能被看见——它蜿蜒穿过街道，忽远忽近。这就是通感。
+
+然后进入第二自然段：Joyous! How is one to tell about joy? How describe the citizens of Omelas? 欢快！可是一个人要如何讲述“欢快”？又如何描写奥梅拉斯的居民呢？
+
+They were not simple folk, you see, though they were happy. 他们并不简单——尽管他们是幸福的。But we do not say the words of cheer much any more. All smiles have become archaic. 只是如今我们不太说那些表示欢欣的话了，所有的微笑都变得古老过时（archaic）。
+
+Given a description such as this, one tends to make certain assumptions. 看到这样的描写，人往往会做出某些假设。
+
+会做出什么假设呢？会下意识地去找那位国王——mounted on a splendid stallion and surrounded by his noble knights，骑着骏马、被高贵的骑士簇拥着的国王；or perhaps in a golden litter borne by great-muscled slaves，又或者坐在由肌肉发达的奴隶抬着的金色轿子里。
+
+因为既然这样快乐，那就一定有一个人治理得非常好——我们会有这样的推断。
